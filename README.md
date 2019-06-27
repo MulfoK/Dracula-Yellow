@@ -1,5 +1,4 @@
 # Dracula-Yellow
-TonyStr's Dracula Theme and YellowAfterLife's GameMaker-Yellow combined!
 This is a fun little thing I made after getting sick of the "Normal" GameMaker look.
 So, I combined TonyStr's Dracula Theme and YellowAfterLife's GameMaker-Yellow.
 Please enjoy!
